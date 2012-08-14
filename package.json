@@ -1,7 +1,7 @@
 {
 	"name": "jqueryify-all",
 	"description": "Get your jQuery lib for browsers",
-	"version": "1.6.3",
+	"version": "1.6.4",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/bigluck/jqueryify-all.git"
