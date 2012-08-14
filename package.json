@@ -1,0 +1,14 @@
+{
+	"name": "jqueryify-all",
+	"description": "Get your jQuery lib for browsers",
+	"version": "1.6.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/bigluck/jqueryify-all.git"
+	},
+	"author": "Luca Bigon <info@exit4web.net>",
+	"engines": {
+		"node": "*"
+	},
+	"main": "./index.js"
+}
